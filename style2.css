@@ -1,0 +1,53 @@
+body{
+ background-image: url('ban.jpg');
+ display: block;
+ padding:200px;
+ margin-left: auto;
+ margin-right: auto;
+ width: 40%;
+ 
+
+}
+input{
+  text-align: center;
+}
+h1{
+  
+  color: white;
+  font-style: oblique;
+  text-shadow: tomato;
+}
+table{
+  align-self:center;
+}
+
+
+input{
+  font-size: large;
+  border-radius: 7.5px;
+}
+li{
+  text-align: center;
+  list-style-type: none;
+  font-size: large;
+}
+.input .username{
+font-size: large;
+}
+div .bosx{
+background-color: thistle;
+text-align: center;
+}
+input[type=submit] {
+  text-align: right;
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  border: blanchedalmond;
+  border-radius: 10px;
+  transition: 150px;}
+  
