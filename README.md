@@ -1,2 +1,0 @@
-# crud
-basic crud
