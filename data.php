@@ -101,5 +101,5 @@ for inserting the value in db insert into tablename (key,) value('value')
     <input type="submit" name="submit">
   </form>
 </body>
-
+//basic comit
 </html>
